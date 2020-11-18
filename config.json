@@ -1,0 +1,7 @@
+{
+ 	"bot_name": "Notifier",
+	"bot_prefix": ".",
+	"bot_token": "Bot token put here",
+	"channel_id_to_send_boblox_updates": 705373408648626237
+}
+
